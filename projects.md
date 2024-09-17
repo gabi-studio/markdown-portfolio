@@ -1,8 +1,8 @@
 ## Gabi Catalan
 
-[Home](index.md)
-[Projects](projects.md)
-[Contact](contact.md)
+[Home ](index.md) 
+[Projects ](projects.md) 
+[Contact ](contact.md) 
 
 ![banner](banner.png)
 
