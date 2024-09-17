@@ -8,4 +8,4 @@
 
 ## My recent projects:
 
-<img src="js-group-login.png" alt="screenshot of a simple secret website + login" title="A simple secret website with group login (HTML, CSS, Javascript)" width="250">
+<a href="js-group-login.png"><img src="js-group-login.png" alt="screenshot of a simple secret website + login" title="A simple secret website with group login (HTML, CSS, Javascript)" width="250"></a>
