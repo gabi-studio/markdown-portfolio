@@ -8,7 +8,7 @@
 
 ## About me:
 
-My name is Gabi. I'm a lifelong learner and a collector of hobbies. Currently, I'm on the path of becoming a full stack web developer! 
+Hello, my name is Gabi. I'm a lifelong learner and a collector of hobbies. Currently, I'm on the path of becoming a full stack web developer! 
 
-I love travelling, hiking, tabletop activities, reading, and home cafe.
+I enjoy travelling, hiking, cooking, tabletop activities, reading, and home cafe.
 
