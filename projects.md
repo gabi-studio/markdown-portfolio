@@ -8,4 +8,4 @@
 
 ## My recent projects:
 
-![javascript group login project](js-group-login.png "A simple secret website and group login. HTML, Javascript, CSS")
+<img src="js-group-login.png" alt="screenshot of a simple secret website + login" title="A simple secret website with group login (HTML, CSS, Javascript)" width="250">
