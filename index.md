@@ -4,7 +4,7 @@
 [Projects](projects.md)
 [Contact](contact.md)
 
-![banner](banner.png)
+![banner](images/banner.png)
 
 ## About me:
 
