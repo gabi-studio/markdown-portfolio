@@ -4,9 +4,9 @@
 [Projects ](projects.md) 
 [Contact ](contact.md) 
 
+## My recent projects:
 ![banner](images/banner.png)
 
-## My recent projects:
 
 ## A secret website
 <figure><a href="images/js-group-login.png"><img src="images/js-group-login.png" alt="screenshot of a simple secret website + login" width="400"></a><figcaption>A simple secret website with group login (HTML, CSS, Javascript)</figcaption></figure>
